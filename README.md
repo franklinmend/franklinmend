@@ -118,14 +118,6 @@ franklin = {
 
 ---
 
-## 💼 Experiência
-
-**🏢 Estagiário de Business Intelligence — Eurolubs**  
-`Dez/2025 – Fev/2026`  
-Organização, tratamento e análise de dados com Excel avançado (PROCV, PROCX, SOMASE, CONT.SE). Criação de relatórios operacionais e análise descritiva de indicadores.
-
----
-
 ## 🎯 Competências Principais
 
 ```
@@ -137,19 +129,7 @@ Organização, tratamento e análise de dados com Excel avançado (PROCV, PROCX,
 🔗  Integrações            →  HubSpot CRM, Redis, APIs externas, JSON
 ```
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seugithub&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seugithub&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff)
-
-</div>
-
----
 
 <div align="center">
 
