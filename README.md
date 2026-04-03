@@ -36,12 +36,10 @@ dev = {
 ![SQL](https://img.shields.io/badge/SQL-F97316?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 #### ⚙️ Backend & Automação
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -75,18 +73,6 @@ dev = {
 📊  Análise de Dados         →  Dashboards estratégicos, SQL, Python
 🗄️  Backend & Banco de Dados →  Supabase, modelagem relacional, APIs
 ```
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seugithub&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seugithub&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff)
-
-</div>
 
 ---
 
