@@ -117,20 +117,6 @@ Organização, tratamento e análise de dados com Excel avançado (PROCV, PROCX,
 🔗  Integrações            →  HubSpot CRM, Redis, APIs externas, JSON
 ```
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seugithub&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seugithub&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff)
-
-</div>
-
----
-
 <div align="center">
 
 💡 *"Construir sistemas de IA que resolvem problemas reais — com foco em eficiência, escala e resultado."*
