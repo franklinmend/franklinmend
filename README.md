@@ -1,16 +1,97 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**franklinmend/franklinmend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Franklin Dev
 
-Here are some ideas to get you started:
+### `Data Engineer · Automation Builder · AI Solutions`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Desenvolvendo soluções que integram análise de dados, automação inteligente e IA aplicada a negócios.*  
+*Do banco de dados à tomada de decisão — sistemas que geram valor real.*
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=seugithub&color=00e5ff&style=flat-square&label=profile+views)
+
+</div>
+
+---
+
+## 🤖 Sobre mim
+
+```python
+dev = {
+    "foco"       : ["IA Aplicada", "Automação de Processos", "Análise de Dados"],
+    "stack_ia"   : ["RAG", "AI Agents", "Pinecone", "LLMs"],
+    "backend"    : ["Supabase", "SQL", "Python"],
+    "automacao"  : ["n8n", "Integrações E2E"],
+    "mindset"    : "Sistemas práticos orientados a resultados 🚀"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+#### 🧠 IA & Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F97316?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+#### ⚙️ Backend & Automação
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 🚀 Projeto em Destaque
+
+### 🦷 Odonto Prime — Sistema de Gestão para Clínica Odontológica
+
+> Sistema completo com fluxo **lead → agendamento → atendimento**, integrando banco de dados relacional, automações inteligentes e um agente de IA com RAG para atendimento ao cliente.
+
+| Módulo | Tecnologia | Descrição |
+|---|---|---|
+| 🗄️ Banco de Dados | `Supabase` | Persistência e lógica relacional |
+| 🔁 Automações | `n8n` | Fluxos e integrações E2E |
+| 🤖 Agente IA | `Pinecone + RAG` | Base de conhecimento vetorial |
+| 📊 Dashboard | `Métricas estratégicas` | Leads, agendamentos, conversão |
+
+**Stack:**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-00e5ff?style=flat-square)
+
+---
+
+## 🎯 Áreas de Foco
+
+```
+🤖  IA Aplicada a Negócios   →  Agentes, RAG, bases de conhecimento vetoriais
+🔁  Automação de Processos   →  Mapeamento de fluxos, n8n, integrações E2E
+📊  Análise de Dados         →  Dashboards estratégicos, SQL, Python
+🗄️  Backend & Banco de Dados →  Supabase, modelagem relacional, APIs
+```
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seugithub&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seugithub&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff)
+
+</div>
+
+---
+
+<div align="center">
+
+💡 *"Construir sistemas que geram valor real — da análise ao produto final."*
+
+</div>
