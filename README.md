@@ -60,6 +60,26 @@ franklin = {
 
 ## 🚀 Projetos em Destaque
 
+### 🦷 Odonto Prime — Sistema de Gestão para Clínica Odontológica
+
+> Sistema completo de gestão clínica com fluxo end-to-end: captação de leads → agendamento → atendimento. Agente de IA integrado para atendimento ao cliente com base de conhecimento estruturada via RAG.
+
+| Componente | Tecnologia | Função |
+|---|---|---|
+| 🗄️ Banco de Dados | `Supabase (PostgreSQL)` | Persistência e lógica relacional |
+| 🔁 Automações | `n8n` | Fluxos e integrações E2E |
+| 🤖 Agente IA | `Pinecone + RAG` | Base de conhecimento vetorial para atendimento |
+| 📊 Dashboard | `Métricas estratégicas` | Leads, agendamentos e taxa de conversão |
+| 🗺️ Processos | `Mapeamento de fluxo` | Identificação de gargalos e otimização de conversão |
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-00e5ff?style=flat-square)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square)
+
+---
+
 ### 🤖 Chatbot Web com IA, Banco de Dados e RAG
 
 > Arquitetura completa de chatbot com IA generativa para atendimento contextualizado, com base de conhecimento vetorial e integração a banco de dados.
@@ -117,9 +137,22 @@ Organização, tratamento e análise de dados com Excel avançado (PROCV, PROCX,
 🔗  Integrações            →  HubSpot CRM, Redis, APIs externas, JSON
 ```
 
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seugithub&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seugithub&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff)
+
+</div>
+
+---
+
 <div align="center">
 
 💡 *"Construir sistemas de IA que resolvem problemas reais — com foco em eficiência, escala e resultado."*
 
 </div>
-
