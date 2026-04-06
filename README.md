@@ -11,8 +11,6 @@
 
 [![Gmail](https://img.shields.io/badge/franklinsilvamendonca2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:franklinsilvamendonca2@gmail.com)
 [![Localização](https://img.shields.io/badge/Manaus--AM,%20Brasil-00e5ff?style=flat-square&logo=googlemaps&logoColor=white)]()
-![Visitors](https://komarev.com/ghpvc/?username=seugithub&color=00e5ff&style=flat-square&label=profile+views)
-
 </div>
 
 ---
